@@ -1,0 +1,16 @@
+id,nombre,amigos ,juegosJugados,juegosGustados
+1,Angel,"Julio, Ronald, Diego, Arodi, Victor","Super Mario 64, Pokmon Dash, The Chronicles of Narnia: Prince Caspian",Super Mario 64
+2,Julio,"Luis, Pavel, Angel, Diego","Metal Gear Ac!d, Ninjatown",Metal Gear Ac!d
+3,Diego,"Victor, Arodi, Pavel, Mateo","Marvel Ultimate Alliance, Pokmon Dash",Marvel Ultimate Alliance
+4,Ronald,"Angel, Julio, Diego, Victor, Arodi, Luis, Pavel, Roberto",Fullmetal Alchemist: Dual Sympathy,Fullmetal Alchemist: Dual Sympathy
+5,Victor,"Diego, Mateo, Pavel, Arodi","Star Wars: Battlefront II, Metal Gear Ac!d",Star Wars: Battlefront II
+6,Arodi,"Sebas, Mateo, Pavel","Pokmon Dash, Metal Gear Ac!d, Hellboy: The Science of Evil",Pokmon Dash
+7,Luis,"Ronald, Alejandro, Sebas","Spider-Man 2, Pokmon Dash",Spider-Man 2
+8,Pavel,"Victor, Ronald, David","Scooby-Doo! Unmasked, The Chronicles of Narnia: Prince Caspian",Scooby-Doo! Unmasked
+9,Juan Pablo,"Alejandro, Ronald, Sebas, Arodi","Battlefield 2: Modern Combat, Hellboy: The Science of Evil",Battlefield 2: Modern Combat
+10,Alejandro,"Sebas, Luis, Juan Pablo","Call of Duty 2, Pokmon Dash, Nitrobike",Call of Duty 2
+11,Roberto,"Ronald, Angel, Julio",Ghost in the Shell: Stand Alone Complex,Ghost in the Shell: Stand Alone Complex
+12,Mateo,"Victor, Diego, Pavel","Pokmon Battle Revolution, NFL Tour",Pokmon Battle Revolution
+13,David,"Pavel, Roberto","Space Invaders Revolution, NFL Tour",Space Invaders Revolution
+14,Pablo,"Angel, Victor, Ronald, Luis","Ape Escape Academy, Metal Gear Ac!d, Hellboy: The Science of Evil",Ape Escape Academy
+15,Sebastian ,"Alejandro, Ronald, Arodi, Julio","LEGO Star Wars II: The Original Trilogy, Pokmon Dash, The Chronicles of Narnia: Prince Caspian",LEGO Star Wars II: The Original Trilogy
